@@ -1,0 +1,2 @@
+# rubyist
+Well grounded rubyist
