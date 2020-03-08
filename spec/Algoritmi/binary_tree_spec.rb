@@ -1,4 +1,4 @@
-require './Algoritmi/binary_tree'
+require './Algoritmi/binary_tree/binary_tree'
 
 describe BinaryTree do
   it 'returns true when value is the same as average' do
